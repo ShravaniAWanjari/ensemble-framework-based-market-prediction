@@ -20,7 +20,7 @@ The strategy is tested on historical market data of Apple (AAPL) using **yfinanc
 ## Outcomes & Visual Insights
 
 ### Market Regime Detection
-<img src="Results/regimes_126.png" alt="Regime Detection" width="500"/>
+<img src="Results/regimes_126days.png" alt="Regime Detection" width="500"/>
 
 ### LSTM vs GRU Predictions along with actual price graph
 <img src="Results/AAPL_Price_Comparison.png" alt="Price Comparison" width="500"/>
