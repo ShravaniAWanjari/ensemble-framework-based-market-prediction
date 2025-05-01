@@ -5,8 +5,10 @@
 This project implements an algorithmic trading system combining LSTM/GRU-based price forecasting and K-means regime classification to generate Buy/Sell/Hold signals. 
 
 ## Models Utilized
-### Deep Learning: LSTM and GRU networks for price forecasting.
-### Supervised Learning: Wasserstein distance-based K-means for regime detection.
+### Deep Learning:
+LSTM and GRU networks for price forecasting.
+### Supervised Learning: 
+Wasserstein distance-based K-means for regime detection.
 ## Features
 
 - Implements Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) for trading signals
