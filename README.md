@@ -1,4 +1,4 @@
-# Market Regime Detection using Wesserstein Kmeans
+# Market Regime Detection using Wasserstein Kmeans
 
 ## Overview
 
