@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the This project develops an algorithmic trading system combining LSTM/GRU-based price forecasting and K-means regime classification to generate Buy/Sell/Hold signals. 
+This project implements an algorithmic trading system combining LSTM/GRU-based price forecasting and K-means regime classification to generate Buy/Sell/Hold signals. 
 
 ## Models Utilized
 ###Deep Learning: LSTM and GRU networks for price forecasting.
